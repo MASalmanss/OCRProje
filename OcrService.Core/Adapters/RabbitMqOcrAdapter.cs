@@ -1,10 +1,10 @@
 using System.Text;
 using System.Text.Json;
-using OcrService.Models;
+using OcrService.Core.Models;
 using RabbitMQ.Client;
 using RabbitMQ.Client.Events;
 
-namespace OcrService.Adapters;
+namespace OcrService.Core.Adapters;
 
 public abstract class RabbitMqOcrAdapter : IOcrAdapter
 {

@@ -1,6 +1,6 @@
-using OcrService.Models;
+using OcrService.Core.Models;
 
-namespace OcrService.Adapters;
+namespace OcrService.Core.Adapters;
 
 public interface IOcrAdapter
 {

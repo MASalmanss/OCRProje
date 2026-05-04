@@ -1,6 +1,6 @@
 using RabbitMQ.Client;
 
-namespace OcrService.Adapters;
+namespace OcrService.Core.Adapters;
 
 public class HandwritingOcrAdapter : RabbitMqOcrAdapter
 {
