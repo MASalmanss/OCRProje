@@ -1,0 +1,6 @@
+easyocr
+pypdfium2
+Pillow
+transformers==4.45.2
+sentencepiece
+protobuf
