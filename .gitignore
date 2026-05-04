@@ -9,3 +9,9 @@ __pycache__/
 *.json
 .env
 .DS_Store
+
+# .NET
+bin/
+obj/
+*.user
+.vs/
