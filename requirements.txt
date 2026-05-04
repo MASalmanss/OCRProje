@@ -1,6 +1,7 @@
 easyocr
 pypdfium2
 Pillow
+pika
 transformers==4.45.2
 sentencepiece
 protobuf
